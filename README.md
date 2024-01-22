@@ -5,7 +5,7 @@ Funding period: TBD <br/>
 PI: Vikas Dharnidharka, MD (WashU); David Axelrod, MD (UIowa) <br/>
 Co-PI/Co-I: Xing Song (MU) <br/>
 GROUSE Cohort: Weight <br/>
-Data Access Type: GROUSE, CMS-only <br/>
+Data Access Type: PCORnet EHR, USRDS <br/>
 GPC DROC request:  <br/>
 
 # Study Overview 
