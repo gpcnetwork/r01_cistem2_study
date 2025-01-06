@@ -26,7 +26,7 @@ The leading site (Rutgers) will obtain a master single IRB to govern the study. 
 ### 2) Data Transfer and Use Agreement
 A CISTEM2 study-specific Data Transfer and User Agreement (DTUA), in line with the master GPC Data Sharing Agreement (DSA), will be developed, reviewed and signed by interested study sites. Both Scientific Registry of Transplant Recipient (SRTR) registry and the approved study sites will forward hashes to DCC, where data linkage and integration will be performed. For overlapped patients, the honest broker at DCC will request GPC EHR data in CDM format following the GPC Data-as-a-Product (DaaP) model. Separate DUAs have been established between leading site and SRTR and DCC. A new CMS DUA will be further established between the leading site and CMS for Medicare claims integration.   
 
-- [Data Use Agreement](/ref/CISTEM2_DUA_20241203_final.pdf)
+- [Data Use Agreement (unsigned)](/ref/CISTEM2_DUA_20241203_final.pdf)
 
 ### 3) Datavant License Agreements and Order Forms
 The Datavant corporation will serve as the Honest Broker for CISTEM2 SRTR-GPC linkage. All GPC sites have an existing Site License Agreement (SLA) in place with Datavant and already have access to the Datavant De-ID software. To supplement the extant Site License Agreement, a CISTEM2 study-specific Order Form will be provided by Datavant to request basic details about the SLA at your site, such as the license number. This is a NO COST, NO SIGNATURE FORM that must be returned to the GCC and the contact at Datavant regardless of who serves as the Honest Broker. There is no cost to your site to utilize Datavant software for the purposes of CISTEM2. 
