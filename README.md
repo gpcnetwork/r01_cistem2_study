@@ -15,6 +15,7 @@ Recognizing the data continuum gaps in CISTEM [e.g., lack of longitudinal inform
 - [Specific Aims](/ref/SPECIFIC%20AIMS_CISTEM2_20230401.pdf)
 - [Site SOW and Budget](/ref/CISTEM2_NIH_R01_SOW-w-Budget.pdf)
 - [Introduction Deck](/ref/CISTEM2_intro_deck.pdf)
+- [NIH Data Management and Sharing Plan](/ref/CISTEM2_NIH_Data-Managemen-Sharing-Plan.pdf)
 
 # Study Team 
 ![fig1](res/study-team.png)
