@@ -17,6 +17,7 @@ Recognizing the data continuum gaps in CISTEM [e.g., lack of longitudinal inform
 - [Introduction Deck](/ref/CISTEM2_intro_deck.pdf)
 - [NIH Data Management and Sharing Plan](/ref/CISTEM2_NIH_Data-Managemen-Sharing-Plan.pdf)
 - [SRTR Data Use Agreement](ref/CISTEM2_SRTR_DataUseAgreement_10178.pdf)
+- [SRTR Security Plan](ref/CISTEM2_SRTR_SecurityPlan_10178.pdf)
 
 # Study Team 
 ![fig1](res/study-team.png)
