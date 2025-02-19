@@ -16,8 +16,11 @@ Recognizing the data continuum gaps in CISTEM [e.g., lack of longitudinal inform
 - [Site SOW and Budget](/ref/CISTEM2_NIH_R01_SOW-w-Budget.pdf)
 - [Introduction Deck](/ref/CISTEM2_intro_deck.pdf)
 - [NIH Data Management and Sharing Plan](/ref/CISTEM2_NIH_Data-Managemen-Sharing-Plan.pdf)
+- [PCORnet EHR CDM Data Use Agreement](ref/CISTEM2_DUA_20241203_final_redlined20250122.pdf)
+- [PCORnet EHR CDM Data Dictionary](https://pcornet.org/wp-content/uploads/2025/01/PCORnet-Common-Data-Model-v70-2025_01_23.pdf)
 - [SRTR Data Use Agreement](ref/CISTEM2_SRTR_DataUseAgreement_10178.pdf)
 - [SRTR Security Plan](ref/CISTEM2_SRTR_SecurityPlan_10178.pdf)
+- [SRTR Data Dictionary](ref/CISTEM2_SRTR_DataDictionary.html)
 
 # Study Team 
 ![fig1](res/study-team.png)
